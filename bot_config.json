@@ -1,0 +1,21 @@
+{
+  "mt5_login": "",
+  "mt5_password": "",
+  "mt5_server": "",
+  "mt5_path": "",
+  "symbol": "EURUSD",
+  "magic_number": 123456,
+  "timeframe": "M15",
+  "use_fixed_lot": true,
+  "lot_size": 0.1,
+  "risk_percent": 1.0,
+  "risk_management_enabled": true,
+  "stop_loss_pips": 20.0,
+  "take_profit_pips": 40.0,
+  "max_daily_loss_amount": 200.0,
+  "max_drawdown_amount": 500.0,
+  "max_open_trades": 3,
+  "use_trailing_stop": false,
+  "trailing_stop_pips": 20.0,
+  "glass_intensity": 0
+}
